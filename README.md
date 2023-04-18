@@ -36,3 +36,26 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+
+Roadmap:
+
+svelte-page-progress :https://github.com/NomanGul/svelte-page-progress
+页面阅览进度条
+
+Svelte-Awesome: https://github.com/RobBrazier/svelte-awesome
+Font Awesome component for Svelte.js, using inline SVG.
+
+npm install --save svelte-awesome
+
+
+gdpr-cookie-consent-banner npm install --save-dev @beyonk/gdpr-cookie-consent-banner
+
+img
+
+svelte-infinitegrid 
+
+ A Svelte component that can arrange items infinitely according to the type of grids 
+
+
+ https://github.com/naver/egjs-infinitegrid/tree/master/packages/svelte-infinitegrid
