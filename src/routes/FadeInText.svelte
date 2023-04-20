@@ -1,4 +1,5 @@
 <!-- FadeInText.svelte -->
+<!-- TODO: remove it to components -->
 <script>
   export let text = "Enter your text here";
   const words = text.split(" ");

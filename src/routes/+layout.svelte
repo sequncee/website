@@ -1,6 +1,7 @@
 <script>
 	import Header from './Header.svelte';
 	import './styles.css';
+	
 </script>
 
 <div class="app">
@@ -9,11 +10,10 @@
 	<main>
 		<slot />
 	</main>
-
-	<footer>
+	<!-- <footer>
 		© Sequnce E 2023. All rights reserved
 		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
-	</footer>
+	</footer> -->
 </div>
 
 <style>

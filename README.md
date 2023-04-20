@@ -51,7 +51,23 @@ npm install --save svelte-awesome
 
 gdpr-cookie-consent-banner npm install --save-dev @beyonk/gdpr-cookie-consent-banner
 
+Svelte Copy
+
 img
+
+svelte-multitoneimage/
+
+A simple image renderer to apply multitone effects for svelte.
+
+
+
+ svelte-gantt
+ 📆 Interactive JavaScript Gantt chart/resource booking component 
+ https://github.com/ANovokmet/svelte-gantt
+
+  tsparticles
+https://github.com/matteobruni/tsparticles/tree/main/components/svelte
+
 
 svelte-infinitegrid 
 
@@ -59,3 +75,81 @@ svelte-infinitegrid
 
 
  https://github.com/naver/egjs-infinitegrid/tree/master/packages/svelte-infinitegrid
+
+
+ Svelte-grid
+
+ A draggable and resizable grid layout with responsive breakpoints, for Svelte.
+ https://github.com/vaheqelyan/svelte-grid
+
+
+ Highlighting
+ https://svhe.onrender.com/
+
+ Syntax Highlighting for Svelte using highlight.js .
+
+
+word:
+svelte-typewriter
+
+https://sr.ht/~henriquehbr/svelte-typewriter
+ design:
+ https://binari.ly
+
+
+ui
+
+svelte-chota 3kb
+
+ibm Carbon Design System
+
+kahi-ui\
+
+
+svelte-materialify
+
+Svelteit
+
+Smelte  Tailwind CSS using Material Design spec
+
+Svelte Headless UI  Tailwind Labs
+svelteui
+
+sveltematerialui
+
+https://flowbite-svelte.com/
+
+https://www.agnosticui.com/
+
+
+https://pattern.monster/
+filepond
+
+ A flexible and fun JavaScript file upload library 
+
+
+ https://luigi-project.io/
+
+ https://tracktheparcel.com/
+
+ https://www.designtack.com/
+
+ https://budibase.com/
+
+ https://www.creative-tim.com/product/notus-svelte?partner=104113
+
+https://www.datawrapper.de/
+
+https://github.com/Brisklemonade/turbosvelte
+https://github.com/Inqling/svelte-icons
+https://bestofsvelte.com/p/urara
+https://bestofsvelte.com/p/argon-dashboard-svelte-1
+https://bestofsvelte.com/p/svelte-saas-frontend
+
+voice 
+ https://sveltekit-embed.vercel.app 
+
+ word-cloud
+ https://www.mentimeter.com/features/word-cloud
+
+ https://www.freewordcloudgenerator.com/

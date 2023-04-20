@@ -4,7 +4,7 @@
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
 	// @ts-ignore
 	import FadeInText from './FadeInText.svelte';
-
+	import Messenger from './../components/animated-messenger/Messenger.svelte';
 
 </script>
 
@@ -13,7 +13,7 @@
 	<title>Home</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
-
+	<Messenger></Messenger>
 
 	<FadeInText text="你 所 能 取 得 的 成 就 没 有 界 限 ，除 非 你 自 己 设 限 。" />
 <section>
